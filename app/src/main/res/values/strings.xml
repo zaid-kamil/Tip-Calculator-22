@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="option_heading">How was the service ?</string>
+    <string name="tip_amt">Tip Amount: %s</string>
+</resources>
